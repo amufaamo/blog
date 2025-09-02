@@ -23,7 +23,7 @@ url: "https://amufaamo.github.io"
 baseurl: "/blog"
 twitter_username: amufaamo
 github_username: amufaamo
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -60,11 +60,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "石川昌和/いしかわまさかず/Masakazu Ishikawa"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "Website"Masakazu Ishikawa
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
